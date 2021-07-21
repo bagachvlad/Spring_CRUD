@@ -6,11 +6,9 @@ Task:
 
 Create a web application that allows you to:
 
-    1.Perform user registration
-
-    2.Authorize users
-
-    3.Perform CRUD operations on the Users
+    1. Perform users registration
+    2. Authorize users
+    3. Perform CRUD operations on the users
     
  
 User authorities:
