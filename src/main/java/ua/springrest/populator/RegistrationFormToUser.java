@@ -7,6 +7,7 @@ import ua.springrest.entity.Role;
 import ua.springrest.entity.State;
 import ua.springrest.entity.User;
 import ua.springrest.entity.form.RegistrationForm;
+import ua.springrest.populator.Populator;
 
 @Component
 public class RegistrationFormToUser implements Populator<RegistrationForm, User> {
